@@ -1,6 +1,6 @@
-# fazenda
+# -- Fazenda do LW facts --
 
-A website written in noir. 
+Em homenagem às estórias do Pedro Ivo, vulgo LW Goiano Forrest Gump.
 
 ## Usage
 
@@ -11,7 +11,7 @@ lein run
 
 ## License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2011
 
 Distributed under the Eclipse Public License, the same as Clojure.
 
